@@ -1,0 +1,116 @@
+{
+  "selectedTemplate": 6,
+  "basics": {
+    "email": "wonalee1a@gmail.com",
+    "name": "Wona Lee",
+    "website": "https://github.com/wonalee",
+    "phone": "+47 XXX XX XXX",
+    "location": {
+      "address": "XXXXXXXXXX"
+    }
+  },
+  "education": [
+    {
+      "institution": "University of Oslo",
+      "location": "Oslo, Norway",
+      "studyType": "Bachelor's degree",
+      "area": "Informatics - Language Technology",
+      "startDate": "Aug 2022",
+      "endDate": "(Jun 2024)"
+    },
+    {
+      "institution": "University of Oslo",
+      "location": "Oslo, Norway",
+      "studyType": "Master's degree",
+      "area": "Classical Studies",
+      "startDate": "Aug 2021",
+      "endDate": "Dec 2023"
+    },
+    {
+      "institution": "University of Oslo",
+      "location": "Oslo, Norway",
+      "studyType": "Bachelor's degree",
+      "area": "Classical Studies",
+      "startDate": "Aug 2016",
+      "endDate": "Jun 2020"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Manage Project MYTHOPOL and POLDEI’s websites and social media accounts",
+        "Conduct proofreading, reference work and indexing of academic texts",
+        "Provide practical assistance related to project conferences and guest researcher visits"
+      ],
+      "company": "MF Vitenskapelig Høyskole",
+      "position": "Research assistant",
+      "location": "Oslo, Norway",
+      "startDate": "Jan 2022",
+      "endDate": "(Jun 2024)"
+    },
+    {
+      "highlights": [
+        "Participated in the day-to-day running of the subject library such as cataloguing/classification, reference servies, and general organizational activities"
+      ],
+      "company": "Nordic Library in Athens",
+      "position": "Intern",
+      "location": "Athens, Greece",
+      "startDate": "Apr 2022",
+      "endDate": "May 2022"
+    },
+    {
+      "highlights": [
+        "Published weekly article series 'Cultural Calendar'",
+        "Researched and wrote new articles for international students in Oslo"
+      ],
+      "company": "Inter Universitas",
+      "position": "Journalist",
+      "location": "Oslo, Norway",
+      "startDate": "Aug 2021",
+      "endDate": "Jun 2022"
+    },
+    {
+      "highlights": [
+        "Assistant writer for the segment 'News In-Depth' following each weekday's prime news coverage",
+        "Booked appropriate experts for the production and handled communications between all parties involved",
+        "Managed the social media account @arirang_newsindepth"
+      ],
+      "company": "Arirang TV Network",
+      "position": "Writer/Researcher",
+      "location": "Seoul, Korea",
+      "startDate": "Jan 2021",
+      "endDate": "Jun 2021"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Python, Java, Linux, Git, Excel"
+      ],
+      "name": "Technologies"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "English, Norwegian, Korean, Spanish"
+      ],
+      "name": "Languages"
+    }
+  ],
+  "projects": [
+    {
+      "name": "hexametron",
+      "url": "github.com/wonalee/hexametron",
+      "description": "Tool that analyzes the dactylic hexameter in ancient Greek",
+      "keywords": [ "Python" ]
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects"
+  ]
+}
